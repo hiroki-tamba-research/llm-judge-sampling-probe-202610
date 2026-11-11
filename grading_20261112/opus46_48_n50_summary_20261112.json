@@ -1,0 +1,145 @@
+{
+ "sdk": "anthropic 0.113.0",
+ "anthropic_version_header_sent": "2023-06-01",
+ "est_cost_usd": 10.7855,
+ "conditions": [
+  {
+   "model": "claude-opus-4-6",
+   "condition": "default, N=50",
+   "temperature": null,
+   "calls": 350,
+   "errors": 0,
+   "skipped": 0,
+   "nonreproducible_items": 2,
+   "total_items": 7,
+   "per_item": {
+    "1": {
+     "I": 50
+    },
+    "2": {
+     "I": 50
+    },
+    "3": {
+     "C": 50
+    },
+    "4": {
+     "C": 50
+    },
+    "5": {
+     "C": 49,
+     "I": 1
+    },
+    "6": {
+     "C": 48,
+     "I": 2
+    },
+    "7": {
+     "C": 50
+    }
+   }
+  },
+  {
+   "model": "claude-opus-4-6",
+   "condition": "temp=0, N=50",
+   "temperature": 0,
+   "calls": 350,
+   "errors": 0,
+   "skipped": 0,
+   "nonreproducible_items": 2,
+   "total_items": 7,
+   "per_item": {
+    "1": {
+     "I": 50
+    },
+    "2": {
+     "I": 50
+    },
+    "3": {
+     "C": 50
+    },
+    "4": {
+     "C": 50
+    },
+    "5": {
+     "C": 49,
+     "I": 1
+    },
+    "6": {
+     "C": 49,
+     "I": 1
+    },
+    "7": {
+     "C": 50
+    }
+   }
+  },
+  {
+   "model": "claude-opus-4-7",
+   "condition": "default, N=50",
+   "temperature": null,
+   "calls": 350,
+   "errors": 0,
+   "skipped": 0,
+   "nonreproducible_items": 1,
+   "total_items": 7,
+   "per_item": {
+    "1": {
+     "I": 50
+    },
+    "2": {
+     "I": 50
+    },
+    "3": {
+     "C": 50
+    },
+    "4": {
+     "C": 50
+    },
+    "5": {
+     "C": 50
+    },
+    "6": {
+     "C": 38,
+     "I": 12
+    },
+    "7": {
+     "C": 50
+    }
+   }
+  },
+  {
+   "model": "claude-opus-4-8",
+   "condition": "default, N=50",
+   "temperature": null,
+   "calls": 350,
+   "errors": 0,
+   "skipped": 0,
+   "nonreproducible_items": 1,
+   "total_items": 7,
+   "per_item": {
+    "1": {
+     "I": 50
+    },
+    "2": {
+     "I": 50
+    },
+    "3": {
+     "C": 49,
+     "I": 1
+    },
+    "4": {
+     "C": 50
+    },
+    "5": {
+     "C": 50
+    },
+    "6": {
+     "C": 50
+    },
+    "7": {
+     "C": 50
+    }
+   }
+  }
+ ]
+}

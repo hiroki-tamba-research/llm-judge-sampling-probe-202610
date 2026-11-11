@@ -1,0 +1,18 @@
+﻿claude-opus-5-5: 0/7 non-reproducible, 0 errors, 350 calls
+   item1: {'I': 50}
+   item2: {'I': 50}
+   item3: {'C': 50}
+   item4: {'C': 50}
+   item5: {'C': 50}
+   item6: {'C': 50}
+   item7: {'C': 50}
+claude-opus-4-8: 0/7 non-reproducible, 0 errors, 350 calls
+   item1: {'I': 50}
+   item2: {'I': 50}
+   item3: {'C': 50}
+   item4: {'C': 50}
+   item5: {'C': 50}
+   item6: {'C': 50}
+   item7: {'C': 50}
+
+TOTAL calls: 700
