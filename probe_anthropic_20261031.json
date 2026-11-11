@@ -1,0 +1,109 @@
+[
+ {
+  "model": "claude-haiku-5-5",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqox8UrGRYzopVr6hV5'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqoy6GviceNWuCjfuY5'}"
+ },
+ {
+  "model": "claude-sonnet-5-5",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqozAmHwha4R66uFhA2'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqp1BGtKCG5VpwHMdCW'}"
+ },
+ {
+  "model": "claude-opus-5-5",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqp285YV1SRxqtvC64d'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqp35ssmv7nNCxCfkAB'}"
+ },
+ {
+  "model": "claude-fable-5-1",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqp44fDFJwX1JpgtrVJ'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqp52hgFfNkx69GyzJk'}"
+ },
+ {
+  "model": "claude-opus-5",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqp5xXFkdUUqmHa5ikT'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqp6sb85UgJ8xPzh9LG'}"
+ },
+ {
+  "model": "claude-sonnet-5",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqp7mA7ViUpHJjwuKh9'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqp8hxuda1CQHr8sQxT'}"
+ },
+ {
+  "model": "claude-fable-5",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqp9d334kY6gdWwtyZu'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpAba7VBJX3cHnkjCS'}"
+ },
+ {
+  "model": "claude-opus-4-8",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqpBcLj6eYz5nsxH8hh'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpCZsvnb9HveLijcGk'}"
+ },
+ {
+  "model": "claude-opus-4-7",
+  "date": "20261031",
+  "temperature": "400 deprecated",
+  "temperature_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgZqpDSyPWxhtCxwJadRZ'}",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpEPmYcY16iFGWkKeQ'}"
+ },
+ {
+  "model": "claude-sonnet-4-6",
+  "date": "20261031",
+  "temperature": "accepted",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpJcGUGnzijGy2WFHo'}"
+ },
+ {
+  "model": "claude-opus-4-6",
+  "date": "20261031",
+  "temperature": "accepted",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpRgBUJCH48RMB2gYp'}"
+ },
+ {
+  "model": "claude-opus-4-5-20251101",
+  "date": "20261031",
+  "temperature": "accepted",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpX4t5TvzxrGinKVaX'}"
+ },
+ {
+  "model": "claude-haiku-4-5-20251001",
+  "date": "20261031",
+  "temperature": "accepted",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpa2yGMCc2P9K9fhYR'}"
+ },
+ {
+  "model": "claude-sonnet-4-5-20250929",
+  "date": "20261031",
+  "temperature": "accepted",
+  "logprobs": "400 not permitted",
+  "logprobs_msg": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'logprobs: Extra inputs are not permitted'}, 'request_id': 'req_011CgZqpdvP9FdiAYkDwxQG1'}"
+ }
+]
